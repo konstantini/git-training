@@ -1,1 +1,1 @@
-widget1
+widget 1 description
